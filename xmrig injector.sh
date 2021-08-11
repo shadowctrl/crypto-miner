@@ -42,3 +42,4 @@ then
    fi
 else
    echo "Please Run as root!"
+fi
