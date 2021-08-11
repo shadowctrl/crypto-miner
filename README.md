@@ -1,5 +1,6 @@
 # Monero-injector
-![monero-2](https://user-images.githubusercontent.com/42708326/129001216-1f405256-79e6-4227-a227-2c7ac0aa9788.png)
+![Monero-feature](https://user-images.githubusercontent.com/42708326/129001300-333c4bfd-db8f-4227-a1e2-2eff899080eb.png)
+
 
 Simple automated script which injects xmrig miner to debain based systems as a system service and persists along reboots.
 
