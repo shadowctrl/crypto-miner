@@ -2,18 +2,19 @@
 ![Monero-feature](https://user-images.githubusercontent.com/42708326/129001300-333c4bfd-db8f-4227-a1e2-2eff899080eb.png)
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Services Included](#services-included)
+- [Project Overview](#project-overview)
+- [Services Included](#services-included)
     - [Educational Overview](#educational-overview)
     - [Script Guidance](#script-guidance)
     - [System Optimization](#system-optimization)
     - [Post-Setup Support](#post-setup-support)
-3. [Simple Automated Script](#simple-automated-script)
-4. [Objective](#objective)
-5. [For Customized Version & Help](#for-customized-version--help)
-6. [Contact](#contact)
-7. [Work With Me](#work-with-me)
-8. [You Can Help Me by Donating](#-you-can-help-me-by-donating)
+      
+- [Simple Automated Script](#simple-automated-script)
+- [Objective](#objective)
+- [For Customized Version & Help](#for-customized-version--help)
+- [Contact](#contact)
+- [Work With Me](#work-with-me)
+- [You Can Help Me by Donating](#-you-can-help-me-by-donating)
 
 ## Project Overview
 This project offers a **consultation service** for optimizing cryptocurrency mining on Linux systems, with a focus on educational content and guidance for setting up and configuring mining operations efficiently.
