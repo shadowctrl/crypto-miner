@@ -8,3 +8,5 @@ Simple to use. kindly change url of xmrig and config.json to your file location 
 
 
 PLEASE DON'T FORGET TO ADD URL OF XMRIG AND CONFIG. YOU CAN ALSO SET YOUR OWN FTP SERVER AND PLACE FILES IN IT. 
+
+## For customized version & help - [Paid version](https://www.upwork.com/services/product/development-it-a-crypto-miner-with-scalable-cpu-utilization-power-saving-capabilities-1816023844702214157?ref=project_share)
