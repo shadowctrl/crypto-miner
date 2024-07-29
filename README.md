@@ -2,20 +2,21 @@
 ![Monero-feature](https://user-images.githubusercontent.com/42708326/129001300-333c4bfd-db8f-4227-a1e2-2eff899080eb.png)
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Services Included](#services-included)
-    - [Educational Overview](#educational-overview)
-    - [Script Guidance](#script-guidance)
-    - [System Optimization](#system-optimization)
-    - [Post-Setup Support](#post-setup-support)
+- ### [Project Overview](#project-overview)
+- ### [Services Included](#services-included)
+    - ### [Educational Overview](#educational-overview)
+    - ### [Script Guidance](#script-guidance)
+    - ### [System Optimization](#system-optimization)
+    - ### [Post-Setup Support](#post-setup-support)
       
-- [Simple Automated Script](#simple-automated-script)
-- [Objective](#objective)
-- [For Customized Version & Help](#for-customized-version--help)
-- [Contact](#contact)
-- [Work With Me](#work-with-me)
-- [You Can Help Me by Donating](#-you-can-help-me-by-donating)
-
+- ### [Simple Automated Script](#simple-automated-script)
+- ### [Objective](#objective)
+- ### [For Customized Version & Help](#for-customized-version--help)
+- ### [Contact](#contact)
+- ### [Work With Me](#work-with-me)
+- ### [You Can Help Me by Donating](#-you-can-help-me-by-donating)
+- ### [Give a Star!](#give-a-star)
+  
 ## Project Overview
 This project offers a **consultation service** for optimizing cryptocurrency mining on Linux systems, with a focus on educational content and guidance for setting up and configuring mining operations efficiently.
 
@@ -62,6 +63,9 @@ If you are interested in working with me on your project, feel free to visit my 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shadowctrl) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowctrl)
+
+## Give a Star!
+If you found this project helpful, please give it a star on GitHub! It helps others find this project and lets me know it's appreciated.
 
 ---
 
